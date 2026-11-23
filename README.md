@@ -24,7 +24,7 @@ writes at once.
 - exteraGram (main target)
 - exteraless `>= 12.10.6` and AyuGram — same plugin API, not tested by us
 - Plugin SDK `>= 1.4.5.3`
-- Version `1.0.0`
+- Version `1.0.1`
 
 ## License
 
