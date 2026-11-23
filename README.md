@@ -2,6 +2,8 @@
 
 # Botile
 
+[![Built with OpenCode](https://opencode.ai/brand/badges/opencode-built-with-f-light-20.svg)](https://opencode.ai)
+
 [Русская версия](ru/README.ru.md)
 
 Botile gives Telegram bot avatars a rounded-square shape with a customizable
