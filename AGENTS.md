@@ -12,6 +12,8 @@ The shape exists for distinguishability: a bot should be recognisable as a bot
 at a glance, without reading its name, in a chat list or a busy group.
 
 Plugin API (hooks, settings, Chaquopy interop): [`docs/plugin-api.md`](docs/plugin-api.md).
+Load the `exteraless-plugin-dev` skill
+(`.agents/skills/exteraless-plugin-dev/SKILL.md`) before editing code.
 
 ## Layout
 
