@@ -23,8 +23,9 @@ Load the `exteraless-plugin-dev` skill
 | `scripts/package_release.py` | Validates metadata, builds `dist/Botile-<version>.plugin` + `SHA256SUMS`. |
 | `tests/test_state_preservation.py` | Host-side mocks for state restore, settings, drawing, reflection. |
 | `docs/plugin-api.md` | How plugins for this host family are written. |
+| `SECURITY.md` | Supported versions, trusted builds, vulnerability reporting. |
 | `.github/` | CI workflow and `preview.webp` for the READMEs. |
-| `ru/` | Russian README and license; English originals stay at the root. |
+| `ru/` | Russian README, license and security policy; English originals stay at the root. |
 
 ## Commands
 
