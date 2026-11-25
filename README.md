@@ -28,6 +28,10 @@ writes at once.
 - Plugin SDK `>= 1.4.5.3`
 - Version `1.0.1`
 
+## Updates
+
+New releases are posted in [@vxrn0](https://t.me/vxrn0).
+
 ## License
 
 MIT — see [LICENSE](LICENSE.md).
