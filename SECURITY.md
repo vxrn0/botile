@@ -29,9 +29,8 @@ fixes. Update to the latest release before reporting a problem.
 
 ## Reporting a vulnerability
 
-Prefer GitHub's private "Report a vulnerability" on the repository Security
-tab. Alternatively, email `vxrn@tutamail.com` or write to
-[@vxrn0](https://t.me/vxrn0) on Telegram.
+Report privately via GitHub's "Report a vulnerability" on the repository
+Security tab.
 
 Do not open a public issue with exploit details. Include the plugin version,
 client and client version, steps to reproduce, and any relevant log. This is a
