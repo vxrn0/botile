@@ -4,9 +4,8 @@ Single-file plugin for the Telegram client family sharing one Python plugin host
 **exteraGram**, **exteraless**, **AyuGram**. It gives bot avatars a rounded-square
 shape with an optional theme-aware frame; other avatars are left alone.
 
-Tested on exteraGram only. exteraless and AyuGram use the same plugin API and are
-supported targets, but nobody has run Botile on them; treat their support as
-unverified.
+Tested only in exteraless. exteraGram and AyuGram use the same plugin API but
+were never run; treat their support as unverified.
 
 The shape exists for distinguishability: a bot should be recognisable as a bot
 at a glance, without reading its name, in a chat list or a busy group.

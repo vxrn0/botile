@@ -23,10 +23,17 @@ writes at once.
 
 ## Compatibility
 
-- exteraGram (main target; tested)
-- exteraless `>= 12.10.6` and AyuGram — same plugin API, not tested by us
+- exteraless `>= 12.10.6` — the only client where Botile was tested
+- exteraGram and AyuGram share the same plugin API but were not tested; treat
+  them as unverified
 - Plugin SDK `>= 1.4.5.3`
 - Version `1.0.1`
+
+## Install
+
+1. Settings → Plugins: enable the plugin engine and developer mode.
+2. Import `plugin/botile.plugin` (or just open the file from a chat).
+3. Confirm the requested `hooks` permission.
 
 ## Updates
 

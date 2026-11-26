@@ -3,7 +3,7 @@
 One `.plugin` file is the whole plugin: plain Python, loaded by Chaquopy at
 runtime, no build step. The same file is expected to load in exteraGram,
 exteraless and AyuGram; a client-specific API is the exception, not the rule.
-Behaviour is verified on exteraGram only.
+Behaviour is verified in exteraless only; exteraGram and AyuGram are untested.
 
 - **Entry point and metadata.** Exactly one `BasePlugin` subclass plus
   module-level literals: `__id__`, `__name__`, `__description__`, `__author__`,

@@ -1,7 +1,7 @@
 """Botile: rounded-square avatars for Telegram bots.
 
-Hooks the shared ImageReceiver paths used by exteraGram and its forks
-(exteraless, AyuGram; the last two are untested):
+Hooks the ImageReceiver paths shared across the exteraGram client family.
+Tested only in exteraless; exteraGram and AyuGram are untested:
 
 * setForUserOrChat() identifies the TLRPC entity and marks bot receivers.
 * setRoundRadius() enforces Botile's radius while preserving the app baseline.
